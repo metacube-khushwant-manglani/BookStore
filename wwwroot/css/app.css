@@ -1,0 +1,44 @@
+#tableBooks {
+    border: 1px solid;
+    width: 100%;
+}
+
+#tableBooks > tr, td, th {
+    border: 1px solid;
+    text-align: center;
+    height: 3em;
+}
+
+#tableBooks th {
+    height: 5em;
+}
+
+#tableBooks tr:hover {
+    /* background-color: #96bfec; */
+}
+
+#tableBooks .updateButton {
+    background-color: #007bff;
+    color: white;
+    padding: 1em 2em;
+    border: 1px solid #007bff;
+    border-radius: 0.5em;
+    cursor: pointer;
+}
+
+#tableBooks .updateButton:hover {
+    background-color: #007bffeb;
+}
+
+#tableBooks .deleteButton {
+    background-color: #dc3545;
+    color: white;
+    padding: 1em 2em;
+    border: 1px solid #dc3545;
+    border-radius: 0.5em;
+    cursor: pointer;
+}
+
+#tableBooks .deleteButton:hover {
+    background-color: #dc3546e8;
+}

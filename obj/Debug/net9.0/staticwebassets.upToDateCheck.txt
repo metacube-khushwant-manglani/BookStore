@@ -1,0 +1,6 @@
+C:\Users\Khushwant\Desktop\.NET Assignments\Course 11 - ASP.NET Web API\BookStore\wwwroot\css\app.css
+C:\Users\Khushwant\Desktop\.NET Assignments\Course 11 - ASP.NET Web API\BookStore\wwwroot\books.html
+C:\Users\Khushwant\Desktop\.NET Assignments\Course 11 - ASP.NET Web API\BookStore\wwwroot\js\script.js
+wwwroot\books.html
+wwwroot\css\app.css
+wwwroot\js\script.js

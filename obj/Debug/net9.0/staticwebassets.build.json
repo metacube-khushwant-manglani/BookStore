@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "gui8MKt/0/oRq8Ob+oU8gDpJ3RAVM5NO7YEzzuiYzxE=",
+  "Source": "BookStore",
+  "BasePath": "_content/BookStore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BookStore\\wwwroot",
+      "Source": "BookStore",
+      "ContentRoot": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\obj\\Debug\\net9.0\\compressed\\dwbvijongc-pvb7yt3tr4.gz",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "css/app#[.{fingerprint=pvb7yt3tr4}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\wwwroot\\css\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "qzxwwxxndg",
+      "Integrity": "6nfPE4akZVX3FJh78dCtEzeVfQCx0FxFHlUmO5EQjS8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\obj\\Debug\\net9.0\\compressed\\kj281apzma-pijsn4x24f.gz",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "books#[.{fingerprint=pijsn4x24f}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\wwwroot\\books.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "o5x0lfkus2",
+      "Integrity": "3Dhn5EZK4bNXJ2zQPki6axS6OCm7aTjF2g3Wl/HP9Oc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\wwwroot\\books.html"
+    },
+    {
+      "Identity": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\obj\\Debug\\net9.0\\compressed\\rlcss8t1dt-blchqhftvn.gz",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "js/script#[.{fingerprint=blchqhftvn}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\wwwroot\\js\\script.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "rzkzax6pxx",
+      "Integrity": "+ZzTIgMANB/kY4Js1FnnuMoYdURZJ/DVndaCfn8Ct7A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\wwwroot\\js\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\wwwroot\\books.html",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "books#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pijsn4x24f",
+      "Integrity": "0ejpsfvAQNVW2Ueeps5GbBpX40Kgm/eHE3lvYCgmcPQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\books.html"
+    },
+    {
+      "Identity": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\wwwroot\\css\\app.css",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "css/app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pvb7yt3tr4",
+      "Integrity": "G2I5cN6sU5y9rpJC4Mxy7ipSHpM6MgB3TvBtFgAFVoc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\wwwroot\\js\\script.js",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "js/script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "blchqhftvn",
+      "Integrity": "ATj6fbc3IU3+Y6ZUN7OjC5GeCvz8hn2nAC7aFAj3jUw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\script.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "books.html",
+      "AssetFile": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\obj\\Debug\\net9.0\\compressed\\kj281apzma-pijsn4x24f.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000884173298"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1130"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3Dhn5EZK4bNXJ2zQPki6axS6OCm7aTjF2g3Wl/HP9Oc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 10:01:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"0ejpsfvAQNVW2Ueeps5GbBpX40Kgm/eHE3lvYCgmcPQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ejpsfvAQNVW2Ueeps5GbBpX40Kgm/eHE3lvYCgmcPQ="
+        }
+      ]
+    },
+    {
+      "Route": "books.html",
+      "AssetFile": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\wwwroot\\books.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5078"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ejpsfvAQNVW2Ueeps5GbBpX40Kgm/eHE3lvYCgmcPQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 10:01:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ejpsfvAQNVW2Ueeps5GbBpX40Kgm/eHE3lvYCgmcPQ="
+        }
+      ]
+    },
+    {
+      "Route": "books.html.gz",
+      "AssetFile": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\obj\\Debug\\net9.0\\compressed\\kj281apzma-pijsn4x24f.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3Dhn5EZK4bNXJ2zQPki6axS6OCm7aTjF2g3Wl/HP9Oc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 10:01:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3Dhn5EZK4bNXJ2zQPki6axS6OCm7aTjF2g3Wl/HP9Oc="
+        }
+      ]
+    },
+    {
+      "Route": "books.pijsn4x24f.html",
+      "AssetFile": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\obj\\Debug\\net9.0\\compressed\\kj281apzma-pijsn4x24f.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000884173298"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1130"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3Dhn5EZK4bNXJ2zQPki6axS6OCm7aTjF2g3Wl/HP9Oc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 10:01:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"0ejpsfvAQNVW2Ueeps5GbBpX40Kgm/eHE3lvYCgmcPQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pijsn4x24f"
+        },
+        {
+          "Name": "label",
+          "Value": "books.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ejpsfvAQNVW2Ueeps5GbBpX40Kgm/eHE3lvYCgmcPQ="
+        }
+      ]
+    },
+    {
+      "Route": "books.pijsn4x24f.html",
+      "AssetFile": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\wwwroot\\books.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5078"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ejpsfvAQNVW2Ueeps5GbBpX40Kgm/eHE3lvYCgmcPQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 10:01:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pijsn4x24f"
+        },
+        {
+          "Name": "label",
+          "Value": "books.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ejpsfvAQNVW2Ueeps5GbBpX40Kgm/eHE3lvYCgmcPQ="
+        }
+      ]
+    },
+    {
+      "Route": "books.pijsn4x24f.html.gz",
+      "AssetFile": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\obj\\Debug\\net9.0\\compressed\\kj281apzma-pijsn4x24f.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3Dhn5EZK4bNXJ2zQPki6axS6OCm7aTjF2g3Wl/HP9Oc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 10:01:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pijsn4x24f"
+        },
+        {
+          "Name": "label",
+          "Value": "books.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3Dhn5EZK4bNXJ2zQPki6axS6OCm7aTjF2g3Wl/HP9Oc="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\obj\\Debug\\net9.0\\compressed\\dwbvijongc-pvb7yt3tr4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003584229391"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "278"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6nfPE4akZVX3FJh78dCtEzeVfQCx0FxFHlUmO5EQjS8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 09:51:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"G2I5cN6sU5y9rpJC4Mxy7ipSHpM6MgB3TvBtFgAFVoc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G2I5cN6sU5y9rpJC4Mxy7ipSHpM6MgB3TvBtFgAFVoc="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G2I5cN6sU5y9rpJC4Mxy7ipSHpM6MgB3TvBtFgAFVoc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 09:51:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G2I5cN6sU5y9rpJC4Mxy7ipSHpM6MgB3TvBtFgAFVoc="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css.gz",
+      "AssetFile": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\obj\\Debug\\net9.0\\compressed\\dwbvijongc-pvb7yt3tr4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "278"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6nfPE4akZVX3FJh78dCtEzeVfQCx0FxFHlUmO5EQjS8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 09:51:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6nfPE4akZVX3FJh78dCtEzeVfQCx0FxFHlUmO5EQjS8="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.pvb7yt3tr4.css",
+      "AssetFile": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\obj\\Debug\\net9.0\\compressed\\dwbvijongc-pvb7yt3tr4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003584229391"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "278"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6nfPE4akZVX3FJh78dCtEzeVfQCx0FxFHlUmO5EQjS8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 09:51:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"G2I5cN6sU5y9rpJC4Mxy7ipSHpM6MgB3TvBtFgAFVoc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pvb7yt3tr4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G2I5cN6sU5y9rpJC4Mxy7ipSHpM6MgB3TvBtFgAFVoc="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.pvb7yt3tr4.css",
+      "AssetFile": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G2I5cN6sU5y9rpJC4Mxy7ipSHpM6MgB3TvBtFgAFVoc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 09:51:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pvb7yt3tr4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G2I5cN6sU5y9rpJC4Mxy7ipSHpM6MgB3TvBtFgAFVoc="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.pvb7yt3tr4.css.gz",
+      "AssetFile": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\obj\\Debug\\net9.0\\compressed\\dwbvijongc-pvb7yt3tr4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "278"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6nfPE4akZVX3FJh78dCtEzeVfQCx0FxFHlUmO5EQjS8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 09:51:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pvb7yt3tr4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6nfPE4akZVX3FJh78dCtEzeVfQCx0FxFHlUmO5EQjS8="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.blchqhftvn.js",
+      "AssetFile": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\obj\\Debug\\net9.0\\compressed\\rlcss8t1dt-blchqhftvn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000649772580"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1538"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+ZzTIgMANB/kY4Js1FnnuMoYdURZJ/DVndaCfn8Ct7A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 11:19:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ATj6fbc3IU3+Y6ZUN7OjC5GeCvz8hn2nAC7aFAj3jUw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "blchqhftvn"
+        },
+        {
+          "Name": "label",
+          "Value": "js/script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ATj6fbc3IU3+Y6ZUN7OjC5GeCvz8hn2nAC7aFAj3jUw="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.blchqhftvn.js",
+      "AssetFile": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\wwwroot\\js\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8026"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ATj6fbc3IU3+Y6ZUN7OjC5GeCvz8hn2nAC7aFAj3jUw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 11:19:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "blchqhftvn"
+        },
+        {
+          "Name": "label",
+          "Value": "js/script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ATj6fbc3IU3+Y6ZUN7OjC5GeCvz8hn2nAC7aFAj3jUw="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.blchqhftvn.js.gz",
+      "AssetFile": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\obj\\Debug\\net9.0\\compressed\\rlcss8t1dt-blchqhftvn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1538"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+ZzTIgMANB/kY4Js1FnnuMoYdURZJ/DVndaCfn8Ct7A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 11:19:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "blchqhftvn"
+        },
+        {
+          "Name": "label",
+          "Value": "js/script.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+ZzTIgMANB/kY4Js1FnnuMoYdURZJ/DVndaCfn8Ct7A="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.js",
+      "AssetFile": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\obj\\Debug\\net9.0\\compressed\\rlcss8t1dt-blchqhftvn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000649772580"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1538"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+ZzTIgMANB/kY4Js1FnnuMoYdURZJ/DVndaCfn8Ct7A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 11:19:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ATj6fbc3IU3+Y6ZUN7OjC5GeCvz8hn2nAC7aFAj3jUw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ATj6fbc3IU3+Y6ZUN7OjC5GeCvz8hn2nAC7aFAj3jUw="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.js",
+      "AssetFile": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\wwwroot\\js\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8026"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ATj6fbc3IU3+Y6ZUN7OjC5GeCvz8hn2nAC7aFAj3jUw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 11:19:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ATj6fbc3IU3+Y6ZUN7OjC5GeCvz8hn2nAC7aFAj3jUw="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.js.gz",
+      "AssetFile": "C:\\Users\\Khushwant\\Desktop\\.NET Assignments\\Course 11 - ASP.NET Web API\\BookStore\\obj\\Debug\\net9.0\\compressed\\rlcss8t1dt-blchqhftvn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1538"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+ZzTIgMANB/kY4Js1FnnuMoYdURZJ/DVndaCfn8Ct7A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 11:19:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+ZzTIgMANB/kY4Js1FnnuMoYdURZJ/DVndaCfn8Ct7A="
+        }
+      ]
+    }
+  ]
+}
